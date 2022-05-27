@@ -1,2 +1,3 @@
 #!/bin/bash
-chgrp alx hello
+chgrp alx-system_engineering-devops hello
+
