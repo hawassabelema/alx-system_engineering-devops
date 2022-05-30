@@ -1,0 +1,6 @@
+
+#!/bin/bash
+
+less /etc/passwd
+
+
